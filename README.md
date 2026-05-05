@@ -8,7 +8,7 @@ Sitio web estático desarrollado para **Incrometales**, enfocado en mostrar prod
 
 Puedes ver el sitio en línea aquí:
 
-👉 https://bycamiloam.github.io/Incrometales/
+👉 https://bycamiloam.github.io/INCRO/
 
 ---
 
